@@ -1,0 +1,11 @@
+I am learning web development with you. Here is my progress:
+- Built a personal page with HTML and CSS
+- Understand tags, attributes, elements, classes, IDs
+- Understand box model, margin, padding
+- Understand hex colors and RGB
+- Built a working page with dark theme, Google Fonts, 
+  hover button effects
+- Next steps: responsive design and hosting on 
+  maldonadostech.com
+- My learning style: deep learning, ask why on everything, 
+  no memorization

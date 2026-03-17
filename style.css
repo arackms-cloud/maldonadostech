@@ -31,4 +31,8 @@ h1 {
 	cursor: pointer;
 }
 
-
+@media (max-width: 600px) {
+	h1 {
+		font-size: 28px;
+	}
+}
